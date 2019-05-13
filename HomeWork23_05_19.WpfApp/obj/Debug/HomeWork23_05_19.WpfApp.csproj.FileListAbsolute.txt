@@ -1,0 +1,15 @@
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\bin\Debug\HomeWork23_05_19.WpfApp.exe.config
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\bin\Debug\HomeWork23_05_19.WpfApp.exe
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\bin\Debug\HomeWork23_05_19.WpfApp.pdb
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.csprojAssemblyReference.cache
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\App.g.cs
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp_MarkupCompile.cache
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp_MarkupCompile.lref
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\MainWindow.baml
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.g.resources
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.Properties.Resources.resources
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.csproj.GenerateResource.cache
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.exe
+C:\Users\калабаева\source\repos\HomeWork23_05_19.WpfApp\HomeWork23_05_19.WpfApp\obj\Debug\HomeWork23_05_19.WpfApp.pdb
